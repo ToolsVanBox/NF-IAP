@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/263894700.svg)](https://doi.org/10.5281/zenodo.13903645)
+
 # NF-IAP
 
 Nextflow Illumina Analysis Pipeline. Includes pre/post-mapping QC, BWA mapping & GATK germline calling and variant annotation. The workflow is able to start from multiple entry points (e.g. fastq, bam, gvcf or vcf).
